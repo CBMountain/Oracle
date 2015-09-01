@@ -1,3 +1,6 @@
+Name: fortest
+CS username: fortest
+
 Welcome.
 
 You have sucessfully obtained a copy of the contents in the oracle repository.
